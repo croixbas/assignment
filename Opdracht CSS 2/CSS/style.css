@@ -1,0 +1,28 @@
+body { 
+    color: rgb(134, 60, 60);
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+.black-border{
+    border:5px solid black;
+    width: 700px;
+    height: 150px;
+}
+#green-background{
+    background-color: rgb(102, 233, 102);
+}
+
+.box-1{
+    background-color: rgb(102, 233, 102);
+    color: rgb(134, 60, 60);
+    border: 5px solid black;
+}
+
+#navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:  ;
+}
